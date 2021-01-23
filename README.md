@@ -1,4 +1,6 @@
-# Simple-Python-Chatbot
+# Deep Learning based Chatbot
 
-Creating a simple Python chatbot using natural language processing and deep learning.
+Project started on : Jan 22, 2021 (Friday)
+Location  : Hyderabad
 
+Code reference : https://github.com/jerrytigerxu/Simple-Python-Chatbot
